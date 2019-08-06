@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: null
+    environment: travistest-prod
     group_suffix: null
   stage:
     environment: null
