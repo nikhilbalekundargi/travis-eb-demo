@@ -23,6 +23,6 @@ jobs:
           region: $region
           app: $ebapp
           env: $ebenv
-          bucket_name: travistest-eu-west-2-test
+          bucket_name: elasticbeanstalk-us-east-1-069653090426
           on:
            branch: master
